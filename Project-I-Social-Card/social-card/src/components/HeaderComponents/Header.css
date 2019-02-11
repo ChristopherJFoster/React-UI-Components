@@ -1,1 +1,42 @@
 /* All styles for your header Components live here */
+
+.header-container {
+  display: flex;
+  padding: 5px;
+}
+
+.image-thumbnail {
+  padding: 8px 2px 0 2px;
+  width: 48px;
+  height: 100%;
+}
+
+.header-title {
+  display: flex;
+  margin: 10px 0 8px 0;
+}
+
+.header-text {
+  display: flex;
+  flex-direction: column;
+  margin: 0 10px 0 3px;
+}
+
+.header-title h2 {
+  font-family: sans-serif;
+  font-weight: bold;
+  font-size: 14px;
+  margin: 0 5px 0 0;
+}
+
+.header-title h4 {
+  font-family: sans-serif;
+  color: grey;
+  font-size: 14px;
+}
+
+.header-content {
+  font-family: sans-serif;
+  font-size: 14px;
+  line-height: 1.4;
+}
