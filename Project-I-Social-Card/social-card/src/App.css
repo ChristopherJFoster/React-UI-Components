@@ -134,5 +134,14 @@ table {
 */
 
 .social-card {
-  width: 600px;
+  width: 580px;
+  border: 1px solid lightgrey;
+  border-radius: 5px;
+  padding: 2px;
+  margin: 5px;
+}
+
+.link {
+  text-decoration: none;
+  color: black;
 }
