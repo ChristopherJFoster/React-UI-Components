@@ -1,8 +1,12 @@
 import React from "react";
-import "./less/main.css";
+import "./css/main.css";
 
 const App = () => {
-  return <div />;
+  return (
+    <div className="chassis">
+      <p>placeholder</p>
+    </div>
+  );
 };
 
 export default App;

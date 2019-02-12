@@ -1,2 +1,2 @@
 import React from "react";
-import "./less/main.css";
+import "./css/main.css";
