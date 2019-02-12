@@ -135,8 +135,8 @@ table {
 
 .social-card {
   width: 580px;
-  border: 1px solid lightgrey;
-  border-radius: 5px;
+  border-top: 1px solid lightgrey;
+  border-bottom: 1px solid lightgrey;
   padding: 2px;
   margin: 5px;
 }
