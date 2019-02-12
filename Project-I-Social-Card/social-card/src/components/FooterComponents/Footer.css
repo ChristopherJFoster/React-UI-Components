@@ -6,13 +6,17 @@
   display: inline;
   padding-right: 55px;
   font-family: sans-serif;
+  cursor: pointer;
 }
 
 .fa-comment {
+  cursor: pointer;
   padding-right: 55px;
 }
 
 .fa-retweet,
-.fa-heart {
+.fa-heart,
+.fa-envelope {
+  cursor: pointer;
   padding-right: 10px;
 }
