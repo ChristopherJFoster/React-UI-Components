@@ -1,1 +1,40 @@
 /* All styles for your Card Components live here */
+
+.card-banner {
+  width: 100%;
+}
+
+.card-container-full {
+  padding: 5px;
+  border: 1px solid lightgrey;
+}
+
+.card-container {
+  margin: 0 10px 5px 60px;
+  border: 1px solid lightgrey;
+  border-radius: 5px;
+}
+
+.card-content {
+  margin: 10px;
+}
+
+.card-content h2 {
+  font-family: sans-serif;
+  font-weight: bold;
+  font-size: 14px;
+  margin: 0 0 5px 0;
+}
+
+.card-content p {
+  font-family: sans-serif;
+  font-size: 14px;
+  line-height: 1.4;
+  margin: 0 0 5px 0;
+}
+
+.card-content h4 {
+  font-family: sans-serif;
+  color: grey;
+  font-size: 14px;
+}
