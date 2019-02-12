@@ -4,11 +4,12 @@
 
 .icon-container p {
   display: inline;
-  padding-right: 60px;
+  padding-right: 55px;
+  font-family: sans-serif;
 }
 
 .fa-comment {
-  padding-right: 60px;
+  padding-right: 55px;
 }
 
 .fa-retweet,
