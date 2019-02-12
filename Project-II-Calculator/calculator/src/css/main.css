@@ -127,11 +127,40 @@ table {
   border-spacing: 0;
 }
 body {
-  font-family: sans-serif;
+  font-family: "Open Sans", sans-serif;
 }
 .chassis {
+  border: 1px solid grey;
   margin: 20px;
-  width: 450px;
+  width: 454px;
   height: 595px;
-  border: 2px dashed red;
+}
+.display {
+  border: 1px solid grey;
+  height: 123px;
+  background: black;
+  color: white;
+  display: flex;
+  justify-content: flex-end;
+}
+.display p {
+  margin-right: 12px;
+  padding-top: 5px;
+  display: flex;
+  align-items: center;
+  font-weight: 300;
+  font-size: 70px;
+}
+.buttons-group {
+  width: 100%;
+  display: flex;
+  flex-wrap: wrap;
+}
+.button {
+  flex: 1 0 21%;
+  border: 1px solid grey;
+}
+.wide {
+  background: red;
+  flex: 3 0 64%;
 }
