@@ -4,15 +4,10 @@
   width: 100%;
 }
 
-.card-container-full {
-  padding: 5px;
-  border: 1px solid lightgrey;
-}
-
 .card-container {
   margin: 0 10px 5px 60px;
   border: 1px solid lightgrey;
-  border-radius: 5px;
+  border-radius: 8px;
 }
 
 .card-content {
