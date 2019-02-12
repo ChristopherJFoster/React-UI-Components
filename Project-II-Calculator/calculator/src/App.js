@@ -1,5 +1,5 @@
 import React from "react";
-import "./App.css";
+import "./less/main.css";
 
 const App = () => {
   return <div />;
